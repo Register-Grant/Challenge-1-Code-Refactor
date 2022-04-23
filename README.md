@@ -28,8 +28,8 @@ THEN I find a concise, descriptive title
 
 The following two images demonstrate the web application's appearance:
 
-(./images/Screenshot-Part-1.png)
-(./images/Screenshot-Part-2.png)
+(C:\Users\regis\repos\git-init-sample\assets\images\Screenshot-Part-1.PNG)
+(C:\Users\regis\repos\git-init-sample\assets\images\Screenshot-Part-2.PNG)
 
 ## Links to the Real Internet
 https://register-grant.github.io/git_init_sample/
