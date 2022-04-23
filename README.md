@@ -27,8 +27,9 @@ THEN I find a concise, descriptive title
 ## Assets
 
 The following two images demonstrate the web application's appearance:
-(./images/Screenshot-Part-1)
-(./images/Screenshot-Part-2)
+
+(./images/Screenshot-Part-1.png)
+(./images/Screenshot-Part-2.png)
 
 ## Links to the Real Internet
 https://register-grant.github.io/git_init_sample/
